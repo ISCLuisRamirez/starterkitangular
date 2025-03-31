@@ -1,2 +1,2 @@
-# starterkitanet
+# starterkitangular
 Starter Kit Angular/.Net
