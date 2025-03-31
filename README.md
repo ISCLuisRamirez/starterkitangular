@@ -1,2 +1,3 @@
 # starterkitangular
-Starter Kit Angular/.Net
+
+Starter Kit Angular 14/.Net Core 9
